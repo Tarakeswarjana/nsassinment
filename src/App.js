@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import ImageSlider from './Component/ImageSlider';
 import ApexChart from './Component/ApexChart';
